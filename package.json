@@ -1,6 +1,6 @@
 {
   "name": "asdfsd",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/index.js",
   "files": [
@@ -22,6 +22,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "rimraf": "^5.0.5",
     "typescript": "^5.1.6"
   },
   "peerDependencies": {
